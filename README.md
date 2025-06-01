@@ -1,4 +1,3 @@
-```markdown
 # 🐈 Continuous Attention Transformer (CAT)
 
 This repository contains a reference implementation of the **Continuous Attention Transformer (CAT)**.
@@ -81,4 +80,3 @@ During training, the script prints:
 
 MIT License.  
 (c) 2025 Umberto Puddu
-```
