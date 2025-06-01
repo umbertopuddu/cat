@@ -32,12 +32,12 @@ pip install --upgrade pip setuptools
 
 ## 🚀 Quick Start
 
-Run the CAT model with Chebyshev basis on MPS:
+Run the CAT model with Fourier basis on MPS:
 
 ```bash
 python CAT.py \
     --device mps \
-    --basis cheb \
+    --basis fourier \
     --blocks 3 \
     --train_steps 2000 \
     --d_model 256 \
