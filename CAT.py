@@ -9,7 +9,7 @@
 # Example:
 #   python CAT.py \
 #       --device mps \
-#       --basis cheb \
+#       --basis fourier \
 #       --blocks 3 \
 #       --train_steps 2000 \
 #       --d_model 256 \
